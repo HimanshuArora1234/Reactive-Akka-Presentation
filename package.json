@@ -2,9 +2,6 @@
   "name": "reveal.js",
   "version": "3.6.0",
   "description": "The HTML Presentation Framework",
-  "homepage": "http://revealjs.com",
-  "subdomain": "revealjs",
-  "main": "js/reveal.js",
   "scripts": {
     "test": "grunt test",
     "start": "grunt serve",
@@ -16,8 +13,6 @@
     "web": "http://hakim.se"
   },
   "repository": {
-    "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
   },
   "engines": {
     "node": ">=4.0.0"
